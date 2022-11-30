@@ -1,0 +1,9 @@
+#CHROM  POS         ID           REF  ALT  QUAL   FILTER  INFO
+22      16157571    .            T    G    0.0    FAIL    NS=53
+22      16346045    .            T    C    0.0    FAIL    NS=244
+22      16350245    .            C    A    0.0    FAIL    NS=192
+22      17054103    .            G    A    0.0    PASS    NS=404
+22      17071906    .            A    T    0.0    PASS    NS=464
+22      17072347    .            C    T    0.0    PASS    NS=464
+22      17072394    .            C    G    0.0    PASS    NS=463
+22      17072411    .            G    T    0.0    PASS    NS=464
